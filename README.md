@@ -1,4 +1,3 @@
-# Scribble_Segmentation
 # PTS Model Image Segmentation Program Description
 
 ## Purpose
