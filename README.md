@@ -1,4 +1,7 @@
 # PTS Model Image Segmentation Program Description
+This repository contains the code for our paper [A pseudo-labeling based weakly supervised segmentation method for few-shot texture images](https://www.sciencedirect.com/science/article/pii/S095741742302612X) (ACL Findings, 2023).
+
+## Overview
 
 ## Purpose
 To address the difficulty of annotating material images, line annotations are used instead of full annotations for learning. To compensate for the lack of supervision with line annotations, the PTS model was designed to generate pseudo-annotations for supplemental supervision. This software implements simple test inferences for models saved after training on a Windows system, displaying and saving segmentation results.
