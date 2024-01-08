@@ -1,5 +1,5 @@
 # PTS Model Image Segmentation Program Description
-This repository contains the code for our paper [A pseudo-labeling based weakly supervised segmentation method for few-shot texture images](https://www.sciencedirect.com/science/article/pii/S095741742302612X) (ACL Findings, 2023).
+This repository contains the code for our paper [A pseudo-labeling based weakly supervised segmentation method for few-shot texture images](https://www.sciencedirect.com/science/article/pii/S095741742302612X) .
 
 ## Overview
 
